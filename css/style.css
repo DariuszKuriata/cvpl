@@ -59,7 +59,8 @@ body {
 .bio-title {
   font-size: 45px;
   line-height: 1,714;
-  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align:center;
   font-family: 'Cinzel-Regular-0569', serif;
 }
